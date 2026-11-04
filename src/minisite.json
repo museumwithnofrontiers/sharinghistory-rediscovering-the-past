@@ -76,6 +76,18 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_11.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=UK_01;uk&shpro=AWE&",
+      "tip": "The British Museum, London, United Kingdom"
+    },
+    {
+      "image": "legacy/logos/item_logo_21.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=MA_01;ma&shpro=AWE&",
+      "tip": "Ministry of Culture, Directorate for Cultural Heritage, Rabat, Morocco"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=UK_01;uk&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/af01a84d-b174-5718-b9a7-b741c8957086",
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=MA_01;ma&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/8ea7243d-fe8e-5011-a9ca-75ebd26660ac"
